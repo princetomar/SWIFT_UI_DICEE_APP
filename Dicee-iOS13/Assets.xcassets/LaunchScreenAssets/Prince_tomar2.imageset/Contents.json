@@ -1,11 +1,11 @@
 {
   "images" : [
     {
+      "filename" : "Prince_tomar2.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "AppBreweryLogo.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
