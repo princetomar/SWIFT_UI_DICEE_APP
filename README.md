@@ -1,17 +1,18 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Dicee
+![simulator_screenshot_F32EB896-0EDC-40A1-BCE8-2CAB0FF50098](https://github.com/princetomar/Swift_UI_DICEE_APP/assets/71916212/512f4132-1907-4f43-b7fe-924f53068998)
 
 ## Our Goal
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
+The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of 
+most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
 
-## What you will create
+## What's in this project
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
+We’re creating a Las Vegas dice app. We can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
 
 
-## What you will learn
+## What has been learnt from this project
 
 * How to clone an existing Xcode project from GitHub.
 * Create an app with behaviour and functionality.
@@ -25,7 +26,5 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+>This is a companion project to The App Brewery's Complete App Development Bootcamp.
 
